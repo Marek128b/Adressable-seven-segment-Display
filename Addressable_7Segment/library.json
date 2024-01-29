@@ -1,6 +1,6 @@
 {
     "name": "Addressable Seven Segment Display",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A addressable seven segment Display with only one pin needed for an infinite amount of Display Segments",
     "keywords": "addressable, seven segment, ws2812, neoPixel, Display",
     "repository":
