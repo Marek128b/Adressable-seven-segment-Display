@@ -1,0 +1,30 @@
+{
+    "name": "Addressable Seven Segment Display",
+    "version": "1.0.0",
+    "description": "A addressable seven segment Display with only one pin needed for an infinite amount of Display Segments",
+    "keywords": "addressable, seven segment, ws2812, neoPixel, Display",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/Marek128b/Adressable-seven-segment-Display.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Georg Marek",
+        "maintainer": true
+      }
+    ],
+    "export": {
+      "exclude":
+      [
+          "test/*"
+      ]
+  },
+    "license": "MIT",
+    "dependencies": {
+        "adafruit/Adafruit NeoPixel": "^1.11.0"
+    },
+    "frameworks": ["Arduino"],
+    "platforms": "*"
+  }
