@@ -1,7 +1,7 @@
 # Adressable-seven-segment-Display
 This repo is about my adressagble seven segment Display i made a few years ago. 
 
-** table of content **
+**table of content**
 - [Adressable-seven-segment-Display](#adressable-seven-segment-display)
   - [Schematic](#schematic)
   - [PCB V1.1](#pcb-v11)
