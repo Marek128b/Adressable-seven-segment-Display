@@ -17,3 +17,4 @@ This repo is about my adressagble seven segment Display i made a few years ago.
 ## 3D View
 <img src="img/Adressable seven segment pcb 3d.PNG" width="100%">
 
+![image](https://github.com/user-attachments/assets/7acd8075-e589-4071-9820-3cb2e1af5005)
